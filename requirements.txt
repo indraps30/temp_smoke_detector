@@ -1,0 +1,10 @@
+fastapi[standard]
+imblearn
+joblib
+mkdocs
+numpy
+pandas
+pytest
+pyyaml
+scikit-learn
+streamlit
