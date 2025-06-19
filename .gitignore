@@ -1,2 +1,3 @@
 .venv_sd/
 data/
+src/__pycache__/
